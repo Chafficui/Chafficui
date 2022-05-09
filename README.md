@@ -5,7 +5,7 @@
 ![Spiget Rating](https://img.shields.io/spiget/rating/76816?style=flat-square)
 ![Spiget Downloads](https://img.shields.io/spiget/downloads/76816?style=flat-square)
 
-[![Chafficui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chafficui)](https://github.com/anuraghazra/github-readme-stats)
+[![Chafficui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chafficui)](https://github.com/Chafficui)
 
 ⚡ My Skill Set:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
